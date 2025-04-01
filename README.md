@@ -3,8 +3,6 @@
 This is the backend service for a full-stack blog platform, built using Node.js, Express.js, and MongoDB. It supports user authentication (JWT), blog creation, image uploads (Multer), and a comment-reply system.
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
 Modify the .env file with your own configurations:
 
 `PORT=8000`
