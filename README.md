@@ -77,5 +77,5 @@ npm run dev
 | Endpoint                  | Method | Description                           |
 |---------------------------|--------|---------------------------------------|
 | `/api/v1/comments/:blogId`          | POST   | Adds a new comment                  |
-| `/api/v1/comments/:blogId/reply/:commentId`             | GET   | Adds reply to a comment
+| `/api/v1/comments/:blogId/reply/:commentId`             | POST   | Adds reply to a comment
 
